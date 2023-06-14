@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8/hub)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-workflow-flex-grid-A0HbeSISR0)
 - Live Site URL: [Add live site URL here](https://x6nenko.github.io/interactive-pricing-component-main/)
 
 ## My process
